@@ -1,0 +1,16 @@
+{
+  "name": "Lancashire Transport Hub",
+  "short_name": "LancsTrans",
+  "description": "Bus and train information for Preston, Lancaster, Blackpool, Fylde and Wyre",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
