@@ -1,6 +1,6 @@
-# SCC.200 Group 6-6 — Interactive Diagrams
+# SCC.200 Group 6-6 interactive diagrams
 
-Interactive companion diagrams for the SCC.200 Design Report — Regional Transport Hub.
+Interactive companion diagrams for the SCC.200 Regional Transport Hub design report.
 
 ## Pages
 
@@ -14,7 +14,7 @@ Interactive companion diagrams for the SCC.200 Design Report — Regional Transp
 
 ## Structure
 
-```
+```text
 index.html                         # Landing page
 gantt-chart/index.html             # Gantt chart & activity network diagram
 architecture-diagrams/index.html   # 5 interactive system architecture diagrams
